@@ -1,0 +1,227 @@
+body {
+    display: flex;
+    flex-direction: column;
+    margin: 0px;
+    font-family: 'Roboto', sans-serif;
+    width: 100%;
+    
+    
+  }
+  
+  html {
+    height: 100%;
+  }
+  
+  h1 {
+    font-size: 48px;
+    font-weight: bold;
+    margin-bottom: -10px;
+    color: white;
+  }
+  
+  .logo {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 18px;
+    color: rgb(195, 219, 219);
+    
+  }
+   p {
+    font-size: 18px;
+  
+   }
+  
+  .header-1part {    
+    background-color: #1f2937;
+    
+    
+  }
+  
+  ul {
+    display: flex;
+    list-style-type: none;
+    gap: 30px;
+    margin: 0px;
+    margin-top: 22px;
+    font-size: 18px;
+  
+  }
+  
+  .header {
+    display: flex;
+    justify-content: space-around;
+    
+  
+  }
+  
+  .img1 {
+  width: 400px;
+  height: auto;
+  
+  
+  
+  }
+  
+  .first-part {
+  padding: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  
+  
+  }
+  .column1-father {
+  
+  width: 422px;
+  
+  
+  
+  }
+  
+  .white {
+    color: rgb(250, 250, 250);
+  
+  }
+  
+  .light-white {
+    color: #e5e7eb;  
+  
+  }
+  
+  .button1 {
+    background-color:#3882f6;   
+    padding: 10px;
+    font-weight: bold;
+    border-radius: 15px;
+    border: none;
+    color: white;
+    width: 120px; 
+    font-size: 17px;
+  
+  }
+  
+  .second-part {
+    padding: 10px;
+  
+  }
+  
+  h2 {
+  display: flex;
+  justify-content: center;
+  font-size: 36px;
+  font-weight: 900;
+  
+  }
+  
+  .square-container {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  padding-top: 10px;
+  padding-bottom: 70px;
+  
+  
+  }
+  
+  
+  .card-text {
+    max-width: 200px;
+    padding-top: 10px;
+  
+  
+  }
+  
+  .square-img {
+    max-width: 170px;
+  
+  }
+  
+  .dark-white {
+    color: #4b4b4b;
+  
+  }
+  
+  .third-part {
+    
+    background-color: #e5e7eb;
+    padding: 150px;
+    
+  }
+  
+  .quote {
+    color: #253041;
+    font-size: 30px;
+    font-style: italic;
+    
+  }
+  
+  .author {
+    font-size: 25px;
+    font-weight: bold;
+    padding-top: 20px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: right;
+  
+  }
+  
+  .forth-part {
+    padding: 90px;
+    display: flex;
+    justify-content: center;
+  
+  }
+  
+  .blue-tits {
+    background-color: rgb(0, 119, 255);
+    padding: 50px;
+    border-radius: 10px;
+    width: 800px;
+    
+  }
+  
+  
+  .button2, .white {
+    font-size: 15px;
+    border: 2px solid white;
+    border-radius: 5px;
+    background-color: rgb(0, 119, 255);
+    padding: 5px;
+    font-weight: bold;
+    width: 120px; 
+  
+    
+  }
+  
+  .container {
+    display: flex;
+    justify-content: space-around;
+    
+    
+    }
+  
+  
+  .call-to-act {
+    font-size: 22px;
+    color: white;
+    font-weight: bold;
+  
+  
+  }
+  
+  .sign-up-text {
+    color: #d8dadd;
+  
+  }
+  
+  .footer {
+    background-color: #1f2937;
+    margin-bottom: 0%;
+    padding: 35px;
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-weight: bold;
+  
+  }
